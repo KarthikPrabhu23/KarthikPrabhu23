@@ -1,10 +1,12 @@
 <h1 align="center">Hey there, How are you doing ? I'm Karthik Prabhu 🤝</h1>
 <h3 align="center">A software tech explorer from India</h3>
 <h7 align="center">CSE-2024 from Canara engineering college </h3>
-<img align="right" alt="coding" width="450" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
+<!-- <img align="right" alt="coding" width="450" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikprabhu23&label=Profile%20views&color=0e75b6&style=flat" alt="karthikprabhu23" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, Python**
+[![An image of @karthikprabhu23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karthikprabhu23)](https://holopin.io/@karthikprabhu23)
+
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on [WEB-DEV & DSA](https://www.linkedin.com/in/karthik-prabhu23/)
 
