@@ -22,6 +22,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/karthik-prabhu23/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="karthik prabhu" height="40" width="40" /></a>
 <a href="https://instagram.com/karthik_prabhu_2003" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="karthik_prabhu_2003" height="40" width="40" /></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/0904ff6e-9ec0-47cc-a4ee-ab073edd34a0" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP_KarthikPrabhu" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
