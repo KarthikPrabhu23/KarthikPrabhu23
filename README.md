@@ -6,17 +6,17 @@
 
 [![An image of @karthikprabhu23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karthikprabhu23)](https://holopin.io/@karthikprabhu23)
 
-- 🌱 I’m currently learning **Python**
+<!-- - 🌱 I’m currently learning **Python** -->
 
 - 👯 I’m looking to collaborate on [WEB-DEV & DSA](https://www.linkedin.com/in/karthik-prabhu23/)
 
-- 👨‍💻 I love programming in Java 😍
+<!-- - 👨‍💻 I love programming in Java 😍 -->
 
 - 💬 Talks on **Java , C/C++ , OS , OOP , Computer Networks**
 
 - 📫 Reach out to me on **karthikprabhu23223@gmail.com**
 
-- 🤷‍♂️ What do you think?  **I think being nerdy is cool 😇**
+<!-- - 🤷‍♂️ What do you think?  **I think being nerdy is cool 😇** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikprabhu23&show_icons=true&locale=en&layout=compact" alt="karthikprabhu23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikprabhu23&show_icons=true&locale=en" alt="karthikprabhu23" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikprabhu23&show_icons=true&locale=en" alt="karthikprabhu23" /></p> -->
