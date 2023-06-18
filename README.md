@@ -8,11 +8,11 @@
 
 <!-- - 🌱 I’m currently learning **Python** -->
 
-- 👯 I’m looking to collaborate on [WEB-DEV & DSA](https://www.linkedin.com/in/karthik-prabhu23/)
+- 👯 I’m looking to collaborate on [WEB-DEV, Android Development, Flutter & DSA](https://www.linkedin.com/in/karthik-prabhu23/)
 
 <!-- - 👨‍💻 I love programming in Java 😍 -->
 
-- 💬 Talks on **Java , C/C++ , OS , OOP , Computer Networks**
+- 💬 Talks on **Java, Flutter , C/C++ , OS , OOP , Computer Networks**
 
 - 📫 Reach out to me on **karthikprabhu23223@gmail.com**
 
