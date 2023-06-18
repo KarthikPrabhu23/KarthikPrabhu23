@@ -1,6 +1,7 @@
-<h1 align="center">Hey there, How are you doing ? I'm Karthik Prabhu 🤝</h1>
-<h3 align="center">A software tech explorer from India</h3>
-<h7 align="center">CSE-2024 from Canara engineering college </h3>
+
+<!-- <h1 align="center">Hey there, How are you doing ? I'm Karthik Prabhu 🤝</h1> -->
+<!-- <h3 align="center">A software tech explorer from India</h3> -->
+<!-- <h7 align="center">CSE-2024 from Canara engineering college </h3> -->
 <!-- <img align="right" alt="coding" width="450" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikprabhu23&label=Profile%20views&color=0e75b6&style=flat" alt="karthikprabhu23" /> </p>
 
@@ -14,7 +15,7 @@
 
 - 💬 Talks on **Java, Flutter , C/C++ , OS , OOP , Computer Networks**
 
-- 📫 Reach out to me on **karthikprabhu23223@gmail.com**
+<!-- - 📫 Reach out to me on **karthikprabhu23223@gmail.com** -->
 
 <!-- - 🤷‍♂️ What do you think?  **I think being nerdy is cool 😇** -->
 
