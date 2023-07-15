@@ -54,21 +54,16 @@
 
 ______________________________________
 # My Projects ⭐
-  
-1. [**HeyConvo! An android chat app with voice & video calls.**](https://github.com/KarthikPrabhu23/HeyConvo-A-Chat-app-Java-Firebase "Check it out!")
-   <br> Java, Firebase, Call API <br>
+   [![KarthikPrabhu23's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=KarthikPrabhu23&repo=HeyConvo-A-Chat-app-Java-Firebase&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
    ______________________________________
-2. [**OTP Flutter**](https://github.com/KarthikPrabhu23/OTP_Flutter "Check it out!")
-   <br> Flutter, Firebase  <br>
+[![KarthikPrabhu23's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=KarthikPrabhu23&repo=OTP_Flutter&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
    ______________________________________
-3. [**Be that change, a donation website**](https://github.com/KarthikPrabhu23/BeThatChange-php "Check it out!")
-   <br> HTML, CSS, Js, PHP, MySQL, Razorpay payment pages
-   <br> 
+[![KarthikPrabhu23's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=KarthikPrabhu23&repo=BeThatChange-php&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
    ______________________________________
-5. [**Exam Now, Quiz website**](https://github.com/KarthikPrabhu23/DBMS_Exam-Now_ "Check it out!")
-   <br> HTML, CSS, Js, PHP, MySQL, BootStrap
-  <br>
+[![KarthikPrabhu23's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=KarthikPrabhu23&repo=DBMS_Exam-Now_&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ______________________________________
+
+
 
 ## Connect with me
 <p align="left">
