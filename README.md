@@ -32,3 +32,22 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikprabhu23&show_icons=true&locale=en&layout=compact" alt="karthikprabhu23" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikprabhu23&show_icons=true&locale=en" alt="karthikprabhu23" /></p> -->
+
+<br><br><br><br><br><br><br>
+
+______________________________________
+# My Projects ⭐
+  
+1. [**HeyConvo! An android chat app with voice & video calls.**](https://github.com/KarthikPrabhu23/HeyConvo-A-Chat-app-Java-Firebase "Check it out!")
+   <br> Java, Firebase, Call API <br>
+   ______________________________________
+2. [**OTP Flutter**](https://github.com/KarthikPrabhu23/OTP_Flutter "Check it out!")
+   <br> Flutter, Firebase  <br>
+   ______________________________________
+3. [**Be that change, a donation website**](https://github.com/KarthikPrabhu23/BeThatChange-php "Check it out!")
+   <br> HTML, CSS, Js, PHP, MySQL, Razorpay payment pages
+   <br> 
+   ______________________________________
+5. [**Exam Now, Quiz website**](https://github.com/KarthikPrabhu23/DBMS_Exam-Now_ "Check it out!")
+   <br> HTML, CSS, Js, PHP, MySQL, BootStrap
+  <br> 
