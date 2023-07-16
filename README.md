@@ -42,7 +42,7 @@
    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
