@@ -26,12 +26,13 @@
   <a href="https://www.cloudskillsboost.google/public_profiles/0904ff6e-9ec0-47cc-a4ee-ab073edd34a0" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP_KarthikPrabhu" height="40" width="40" /></a>
 </p>
 -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages </h3>
 <!-- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="55" height="55"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p> -->
 
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/303480/c-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/349402/html5.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/349330/css3.svg"  height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,12 +40,16 @@
    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/374016/python.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<h3 align="left">Tools </h3>
+
+<p align="center">
+   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikprabhu23&show_icons=true&locale=en&layout=compact" alt="karthikprabhu23" /></p>
 
@@ -63,7 +68,10 @@ ______________________________________
 [![KarthikPrabhu23's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=KarthikPrabhu23&repo=DBMS_Exam-Now_&show_owner=true&theme=dark)](https://github.com/KarthikPrabhu23/DBMS_Exam-Now_)
 ______________________________________
 
+
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/8XuFD4elTkeRnuoF2Ettrg?identity__email=karthikprabhu23223%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/8XuFD4elTkeRnuoF2Ettrg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Jul 26, 2023</p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2F8XuFD4elTkeRnuoF2Ettrg%3Fidentity__email%3Dkarthikprabhu23223%2540gmail.com&amp;identity__email=karthikprabhu23223%40gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p>
+
+______________________________________
 
 ## Connect with me
 <p align="left">
