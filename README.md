@@ -9,7 +9,7 @@
 
 <!-- - 🌱 I’m currently learning **Python** -->
 
-- 👯 I’m looking to collaborate on [WEB-DEV, Android Development, Flutter & DSA](https://www.linkedin.com/in/karthik-prabhu23/)
+- 👯 I’m looking to collaborate on [Mobile dev, WEB-DEV, Flutter, Java & DSA](https://www.linkedin.com/in/karthik-prabhu23/)
 
 <!-- - 👨‍💻 I love programming in Java 😍 -->
 
@@ -60,6 +60,8 @@
 ______________________________________
 # My Projects ⭐
    [![KarthikPrabhu23's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=KarthikPrabhu23&repo=HeyConvo-A-Chat-app-Java-Firebase&show_owner=true&theme=dark)](https://github.com/KarthikPrabhu23/HeyConvo-A-Chat-app-Java-Firebase)
+   ______________________________________
+   [![KarthikPrabhu23's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=KarthikPrabhu23&repo=ShoeZam&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
    ______________________________________
 [![KarthikPrabhu23's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=KarthikPrabhu23&repo=OTP_Flutter&show_owner=true&theme=dark)](https://github.com/KarthikPrabhu23/OTP_Flutter)
    ______________________________________
