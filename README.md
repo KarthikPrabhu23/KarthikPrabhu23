@@ -61,7 +61,7 @@ ______________________________________
 # My Projects ⭐
    [![KarthikPrabhu23's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=KarthikPrabhu23&repo=HeyConvo-A-Chat-app-Java-Firebase&show_owner=true&theme=dark)](https://github.com/KarthikPrabhu23/HeyConvo-A-Chat-app-Java-Firebase)
    ______________________________________
-   [![KarthikPrabhu23's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=KarthikPrabhu23&repo=ShoeZam&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+   [![KarthikPrabhu23's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=KarthikPrabhu23&repo=ShoeZam&show_owner=true&theme=dark)](https://github.com/KarthikPrabhu23/ShoeZam)
    ______________________________________
 [![KarthikPrabhu23's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=KarthikPrabhu23&repo=OTP_Flutter&show_owner=true&theme=dark)](https://github.com/KarthikPrabhu23/OTP_Flutter)
    ______________________________________
