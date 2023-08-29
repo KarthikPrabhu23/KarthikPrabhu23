@@ -9,7 +9,7 @@
 
 <!-- - 🌱 I’m currently learning **Python** -->
 
-- 👯 I’m looking to collaborate on [Mobile dev, WEB-DEV, Flutter, Java & DSA](https://www.linkedin.com/in/karthik-prabhu23/)
+- 👯 I’m looking to collaborate on [Mobile dev, WEB-DEV, Flutter, VR-dev, Java & DSA](https://www.linkedin.com/in/karthik-prabhu23/)
 
 <!-- - 👨‍💻 I love programming in Java 😍 -->
 
@@ -49,6 +49,7 @@
    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikprabhu23&show_icons=true&locale=en&layout=compact" alt="karthikprabhu23" /></p>
